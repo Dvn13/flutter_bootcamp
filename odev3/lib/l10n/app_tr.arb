@@ -1,0 +1,11 @@
+{
+    "purchase": "Satın Alma",
+    "simpleSecurityTitle": "Basit Güvenlik",
+    "simpleSecurityDesc": "Temel güvenlik paketimiz sadece 49.99$",
+    "mediumSecurityTitle": "Orta Seviye Güvenlik",
+    "mediumSecurityDesc": "Orta düzey güvenlik paketimiz sadece 49.99$",
+    "highSecurityTitle": "Yüksek Güvenlik",
+    "highSecurityDesc": "Yüksek düzey güvenlik paketimiz sadece 49.99$",
+    "freeTrial": "Ücretsiz Deneme",
+    "starMembership": "Başlangıç Üyeliği"
+}

@@ -1,0 +1,11 @@
+{
+    "purchase": "Purchase",
+    "simpleSecurityTitle": "Simple Security",
+    "simpleSecurityDesc": "Our basic security package is only 49.99$",
+    "mediumSecurityTitle": "Medium Security",
+    "mediumSecurityDesc": "Our Medium security package is only 49.99$",
+    "highSecurityTitle": "High Security",
+    "highSecurityDesc": "Our High security package is only 49.99$",
+    "freeTrial":"Free Trial",
+    "starMembership":"Start Membership"
+}
