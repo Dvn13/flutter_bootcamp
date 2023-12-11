@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "369203876505",
+    "project_id": "flutterbootcamp-eea9e",
+    "storage_bucket": "flutterbootcamp-eea9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369203876505:android:7ecc965391e24642ef1e08",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369203876505-ghsqnphkd4e4bckjdvivsh1aengmq1mt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_app",
+            "certificate_hash": "9ea54cfd7b1c3d167964d6124adab06294ffb52b"
+          }
+        },
+        {
+          "client_id": "369203876505-g50i7elpi7b7tifq4ptub5nhbphv6lvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoPEq9PnsNCyK8wObEuRHigQfFCTkFQko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369203876505-g50i7elpi7b7tifq4ptub5nhbphv6lvl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "369203876505-7k0k46othle0j294rc8aiepor16sci00.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
